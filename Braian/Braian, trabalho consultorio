@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <title>MedTech Solutions</title>
+</head>
+
+<body>
+
+    <header>
+        <h1>MedTech Solutions</h1>
+        <h2>Equipamentos médicos de alta precisão para clínicas e hospitais</h2>
+
+        <nav>
+            <a href="#inicio">Início</a> 
+            <a href="#produtos">Produtos</a> 
+            <a href="#sobre">Sobre</a> 
+            <a href="#localizacao">Localização</a>
+        </nav>
+    </header>
+
+    <main>
+
+        <section id="inicio">
+            <h1>Soluções confiáveis em equipamentos medicos</h1>
+            <h4>Na MedTech oferecemos equipamentos confiáveis com garantia e suporte 24 horas</h4>
+        </section>
+
+        <section id="produtos">
+            <h2>Nossos Produtos</h2>
+            <p>Confira nossa linha completa de instrumentos cirúrgicos de alta precisão</p>
+            <ul>
+              <li>
+                  <h3>Bisturi</h3>
+                  <img src="images/imagens3.jpg" alt="Bisturi" width="150">
+                  <h3>Função: Realiza cortes precisos em tecidos durante cirurgias.</h3>
+                  <h3>Uso: Utilizado em procedimentos cirúrgicos e dissecções.</h3>
+                  <h3>Características: Tem lâmina afiada e removível, com cabo de metal ou plástico.</h3>
+              </li>
+              <li>
+                  <h3>estetoscopio</h3>
+                  <img src="images/imagem2.png" alt="estetoscopio" width="150">
+
+                  <h3>Função: Permite ouvir sons internos do corpo, como batimentos cardíacos e respiração.</h3>
+                  <h3>Uso: Auxilia no diagnóstico clínico e monitoramento do paciente.</h3>
+                  <h3>Características: Possui diafragma, tubos e olivas auriculares; é leve e portátil.</h3>
+              </li>
+              <li>
+                  <h3>Tesoura Cirúrgica</h3>
+                  <img src="images/imagem1.jpg" alt="Tesoura" width="150">
+                  <h3>Função: Corta tecidos, fios de sutura e curativos.</h3>
+                  <h3>Uso: Empregada em cirurgias para separar ou remover tecidos.</h3>
+                  <h3>Características: Pode ser reta ou curva, com pontas finas ou rombas.</h3>
+              </li>
+              <li>
+                  <h3>síntese</h3>
+                  <img src="images/imagem4.png" alt="síntese" width="150">
+                  <h3>Função: Fecha tecidos após a cirurgia.</h3>
+                  <h3>Uso: Promove a cicatrização e restaura a continuidade do corpo.</h3>
+                  <h3>Características: Feita com suturas, grampos ou cola cirúrgica.</h3>
+              </li>
+              <li>
+                  <h3>Retrator Weitlaner</h3>
+                  <img src="images/imagem5.jpg" alt="Retrator" width="150">
+                  <h3>Função: Afasta tecidos para manter a área cirúrgica aberta.</h3>
+                  <h3>Uso: Facilita o acesso e a visualização durante a cirurgia.</h3>
+                  <h3>Características: Possui ganchos e mecanismo de trava automática.</h3>
+
+                  <h1>Comparativo de produtos</h1>
+                  <section id="comparativo">
+                    <h3>Comparativo de Instrumentos Cirúrgicos</h3>
+                    <br>
+
+                    
+<section id="sobre">
+    <h2>Sobre a MedTech</h2>
+    <p>A MedTech Solutions é uma empresa especializada em fornecer equipamentos médicos de alta qualidade para clínicas e hospitais. Nosso compromisso é com a inovação, segurança e confiabilidade.</p>
+  </section>
+  <br>
+
+                    <section id="localizacao">
+                        <h2>Localização</h2>
+                        <p>Estamos localizados em Santa Catarina, Sc.</p>
+                        <p>Endereço: Rua Abiliu eleutero Gonsalvez, 123 - Vila Hospitalar</p>
+                        <p>Telefone: (11) 11111-1111</p>
+                        <p>Email: hospital@gorcut.com</p>
+                      </section>
+
+                      <br>
+                    <table border="1">
+                      <tr>
+                        <th>Instrumento</th>
+                        <th>Peso Médio</th>
+                        <th>Garantia</th>
+                        <th>Preço Estimado</th>
+                      </tr>
+                      <tr>
+                        <td>Bisturi</td>
+                        <td>10–30 g</td>
+                        <td>Garantia contra defeito de fabricação</td>
+                        <td>R$ 30–120</td>
+                      </tr>
+                      <tr>
+                        <td>Estetoscopio</td>
+                        <td>30–70 g</td>
+                        <td>Vida útil se bem cuidada</td>
+                        <td>R$ 12–50</td>
+                      </tr>
+                      <tr>
+                        <td>Tesoura Cirúrgica</td>
+                        <td>40–100 g</td>
+                        <td>Vida útil se bem cuidada</td>
+                        <td>R$ 40–150</td>
+                      </tr>
+                      <tr>
+                        <td>sintese</td>
+                        <td>150–300 g</td>
+                        <td>3–5 anos limitada</td>
+                        <td>R$ 900–2.000</td>
+                      </tr>
+                      <tr>
+                        <td>retrator de Produtos</td>
+                        <td>20–50 g</td>
+                        <td>Garantia limitada</td>
+                        <td>R$ 200–250</td>
+                      </tr>
+                    </table>
+                  </section>
+                
+              </li>
+          </ul>
+
+          <a href="#facebook">Facebook</a> 
+          <a href="#instagram">Instagram</a> 
+          <a href="#Linkedin">Linkedin</a> 
+
